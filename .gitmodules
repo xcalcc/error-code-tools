@@ -1,0 +1,3 @@
+[submodule "xcal-common"]
+	path = xcal-common
+	url = https://github.com/xcalcc/xcal-common.git
